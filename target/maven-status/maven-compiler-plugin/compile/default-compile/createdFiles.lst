@@ -1,4 +1,5 @@
 com\example\test\demo\controller\NumberController.class
 com\example\test\demo\controller\GlobalCorsConfig.class
 com\example\test\demo\controller\GlobalCorsConfig$1.class
+com\example\test\demo\controller\NumberController$Response.class
 com\example\test\demo\DemoApplication.class
